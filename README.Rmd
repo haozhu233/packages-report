@@ -14,7 +14,7 @@ library(tidyverse)
 
 # packages-report
 
-## Workshop challenge checklist
+## Workshop challenge checklist 
 
 *As you complete tasks, you can ~~cross them out~~ by surrounding with `~~`.*
 
